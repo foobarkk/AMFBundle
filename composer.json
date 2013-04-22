@@ -3,6 +3,7 @@
     "description":  "Tecbot AMFBundle",
     "keywords":     ["amf"],
     "type":         "symfony-bundle",
+    "version":      "master"
     "authors": [
         {
             "name":     "Thomas Adam",
