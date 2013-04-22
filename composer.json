@@ -1,6 +1,6 @@
 {
-    "name":         "tecbot/amf-bundle",
-    "description":  "Tecbot AMFBundle",
+    "name":         "foobarkk/amf-bundle",
+    "description":  "Foobarkk AMFBundle",
     "keywords":     ["amf"],
     "type":         "symfony-bundle",
     "version":      "master",
